@@ -6,4 +6,4 @@ Medicare is the federal health insurance program created in 1965 for people ages
 
 Medicare covers many basic health services, including hospital stays, physician services, and prescription drugs. In 2019, Medicare spending accounted for 14 percent of total federal spending and 20 percent of total national health spending. Our team used the linear regression method to find out what factors can affect State Medicare Spending and help states plan their budgets wisely.
 
-Please view the complete slides [here]()
+Please view the complete slides [here](https://github.com/xqiao123/Prediction_Medical_Spending_Linear_Regression/blob/main/slides.pdf)
